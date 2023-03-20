@@ -2,8 +2,6 @@
 
 ## Web Page Deployed
 
-![alt text]https://github.com/SudarshanGouda/Body_Fat_Estimation/blob/main/Body%20weight%20Web%20page.PNG)
-
 The variables listed below, from left to right, are:
 
 Density determined from underwater weighing

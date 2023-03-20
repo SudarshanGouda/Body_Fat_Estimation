@@ -2,7 +2,7 @@
 
 ## Web Page Deployed
 
-https://github.com/SudarshanGouda/Body_Fat_Estimation/issues/1#issue-1631988820
+![Body weight Web page](https://user-images.githubusercontent.com/92261235/226336031-32566e56-2146-45dd-895c-7ee62ede178b.PNG)
 
 The variables listed below, from left to right, are:
 
